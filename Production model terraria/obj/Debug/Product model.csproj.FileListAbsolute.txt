@@ -1,0 +1,20 @@
+C:\Users\Xam\source\repos\Product model\obj\Debug\Product model.csproj.AssemblyReference.cache
+C:\Users\Xam\source\repos\Product model\obj\Debug\Product_model.Form1.resources
+C:\Users\Xam\source\repos\Product model\obj\Debug\Product_model.Properties.Resources.resources
+C:\Users\Xam\source\repos\Product model\obj\Debug\Product model.csproj.GenerateResource.cache
+C:\Users\Xam\source\repos\Product model\obj\Debug\Product model.csproj.CoreCompileInputs.cache
+C:\Users\Xam\source\repos\Product model\bin\Debug\Product model.exe.config
+C:\Users\Xam\source\repos\Product model\bin\Debug\Product model.exe
+C:\Users\Xam\source\repos\Product model\bin\Debug\Product model.pdb
+C:\Users\Xam\source\repos\Product model\obj\Debug\Product model.exe
+C:\Users\Xam\source\repos\Product model\obj\Debug\Product model.pdb
+S:\madao\Downloads\Archieves\Product_model\Product model\bin\Debug\Product model.exe.config
+S:\madao\Downloads\Archieves\Product_model\Product model\bin\Debug\Product model.exe
+S:\madao\Downloads\Archieves\Product_model\Product model\bin\Debug\Product model.pdb
+S:\madao\Downloads\Archieves\Product_model\Product model\obj\Debug\Product model.csproj.AssemblyReference.cache
+S:\madao\Downloads\Archieves\Product_model\Product model\obj\Debug\Product_model.Form1.resources
+S:\madao\Downloads\Archieves\Product_model\Product model\obj\Debug\Product_model.Properties.Resources.resources
+S:\madao\Downloads\Archieves\Product_model\Product model\obj\Debug\Product model.csproj.GenerateResource.cache
+S:\madao\Downloads\Archieves\Product_model\Product model\obj\Debug\Product model.csproj.CoreCompileInputs.cache
+S:\madao\Downloads\Archieves\Product_model\Product model\obj\Debug\Product model.exe
+S:\madao\Downloads\Archieves\Product_model\Product model\obj\Debug\Product model.pdb
