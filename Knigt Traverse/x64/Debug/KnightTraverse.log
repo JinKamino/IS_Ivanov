@@ -1,9 +1,0 @@
-﻿  KnightTraverse.cpp
-C:\Users\Xam\source\repos\KnightTraverse\KnightTraverse.cpp(322,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Xam\source\repos\KnightTraverse\KnightTraverse.cpp(349): message : выполняется компиляция ссылки на экземпляр шаблон функции "void showResults<36>(int8,State<36> *(__cdecl *)(const KnightTraverse<36> &),bool)"
-C:\Users\Xam\source\repos\KnightTraverse\KnightTraverse.cpp(80,14): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
-C:\Users\Xam\source\repos\KnightTraverse\KnightTraverse.cpp(119): message : выполняется компиляция ссылки на экземпляр шаблон функции "State<36> *moveState<36>(const State<36> &,Move)"
-C:\Users\Xam\source\repos\KnightTraverse\KnightTraverse.cpp(349): message : выполняется компиляция ссылки на экземпляр шаблон функции "State<36> *bfs<36>(const KnightTraverse<36> &)"
-C:\Users\Xam\source\repos\KnightTraverse\KnightTraverse.cpp(83,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Xam\source\repos\KnightTraverse\KnightTraverse.cpp(85,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  KnightTraverse.vcxproj -> C:\Users\Xam\source\repos\KnightTraverse\x64\Debug\KnightTraverse.exe

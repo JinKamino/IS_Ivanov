@@ -1,8 +1,0 @@
-﻿  KnightTour.cpp
-S:\madao\Study\CG\Github\IS_Ivanov\Knigt Traverse\KnightTour.cpp(310,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-      S:\madao\Study\CG\Github\IS_Ivanov\Knigt Traverse\KnightTour.cpp(310,24):
-      контекст создания экземпляра шаблона (сначала самый старый)
-          S:\madao\Study\CG\Github\IS_Ivanov\Knigt Traverse\KnightTour.cpp(341,9):
-          выполняется компиляция ссылки на экземпляр шаблон функции "void showResults<8>(int,State<8> *(__cdecl *)(const KnightTour<8> &),bool)"
-  
-  KnightTraverse.vcxproj -> S:\madao\Study\CG\Github\IS_Ivanov\Knigt Traverse\x64\Debug\KnightTour.exe

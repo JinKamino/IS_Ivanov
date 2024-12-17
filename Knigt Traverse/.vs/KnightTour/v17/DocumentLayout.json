@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "S:\\madao\\Study\\CG\\Github\\IS_Ivanov\\Knigt Traverse\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAE73FD-543F-4425-B925-62741E8BF95F}|KnightTraverse.vcxproj|S:\\madao\\Study\\CG\\Github\\IS_Ivanov\\Knigt Traverse\\KnightTour.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BAE73FD-543F-4425-B925-62741E8BF95F}|KnightTraverse.vcxproj|solutionrelative:KnightTour.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KnightTour.cpp",
+              "DocumentMoniker": "S:\\madao\\Study\\CG\\Github\\IS_Ivanov\\Knigt Traverse\\KnightTour.cpp",
+              "RelativeDocumentMoniker": "KnightTour.cpp",
+              "ToolTip": "S:\\madao\\Study\\CG\\Github\\IS_Ivanov\\Knigt Traverse\\KnightTour.cpp*",
+              "RelativeToolTip": "KnightTour.cpp*",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAALQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T18:14:20.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
